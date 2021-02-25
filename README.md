@@ -14,6 +14,6 @@ To test this code I used the information provided from the Japan's Postal Servic
 
 Clone the git repository and open the directory called Address-Retrieval. Then execute the following command to run the program:
 ```bash
-gcc -c address_retrieval.c && gcc -o address_retrieval.o address_retrieval.c
-./address_retrieval.o
+$ gcc -c address_retrieval.c && gcc -o address_retrieval.o address_retrieval.c
+$ ./address_retrieval.o
 ```
